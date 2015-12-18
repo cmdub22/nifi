@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMW-processors.iml" filepath="$PROJECT_DIR$/CMW-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-cdub-nar/nifi-cdub-nar.iml" filepath="$PROJECT_DIR$/nifi-cdub-nar/nifi-cdub-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-cdub-processors/nifi-cdub-processors.iml" filepath="$PROJECT_DIR$/nifi-cdub-processors/nifi-cdub-processors.iml" />
+    </modules>
+  </component>
+</project>
